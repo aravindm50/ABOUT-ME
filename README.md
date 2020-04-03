@@ -1,12 +1,10 @@
 ## Hi, this is Aravind
 
-You can use the [editor on GitHub](https://github.com/aravindm50/ABOUT-ME/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Data Scientist | Open to full time opportunities in Machine learning and Data Science 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Profile
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A young professional, looking for a challenging and rewarding environment to help the world grow and capitalize on the 21st century-gold, the ##Data.
 
 ```markdown
 Syntax highlighted code block
