@@ -1,10 +1,11 @@
+Data Scientist | Open to full time opportunities in Machine learning and Data Science 
+
 ## Hi, this is Aravind
 
-Data Scientist | Open to full time opportunities in Machine learning and Data Science 
 
 ### My Profile
 
-A young professional, looking for a challenging and rewarding environment to help the world grow and capitalize on the 21st century-gold, the ##Data.
+A young professional, looking for a challenging and rewarding environment to help the world grow and capitalize on the 21st century-gold, the ## Data.
 
 ```markdown
 Syntax highlighted code block
